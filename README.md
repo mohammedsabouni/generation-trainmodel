@@ -1,6 +1,6 @@
 # Système de Diagnostic Multi-Maladies avec Random Forest
 
-Projet de Fin d'Année - 2025
+Projet de Fin d'Année - 2025 / 2026
 
 ## Description
 
